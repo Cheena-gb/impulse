@@ -1,5 +1,5 @@
 # IMPULSE Keyboards
-JIS × Alice × Row Staggered × symmetric Ergonomic Keyboard
+JIS × Alice × Row Staggered × Symmetric Ergonomic Keyboard
 
 ## IMPULSE77
 [{y:0.75,x:0.25,a:7},"","",{a:4},"\n\n\nlg","\n\n\n1","\n\n\n2",{x:8.25},"\n\n\n-=","\n\n\n^~","\n\n\n\\|","\n\n\nbs",{a:7},"rotary"],

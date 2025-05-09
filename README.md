@@ -2,6 +2,5 @@
 JIS × Alice × Row Staggered × Symmetric Ergonomic Keyboard concept  
 
 ## IMPULSE77
-適当に作ってよね  
-わかんなかったらChildhood's EndかRE Aoharuのビルドガイドでも見てね  
-RP2040-Zeroは端子下向きだよ
+76 Keys + 1 Rotary Encoder / Stacked FR-4  
+[Build Guide](docs/impulse77/beta.md)

@@ -1,5 +1,5 @@
 # IMPULSE Keyboards
-JIS × Alice × Row Staggered × Symmetric Ergonomic Keyboard concept  
+JIS × Alice × Row Staggered × Symmetric Colum Staggered Ergonomic Keyboard concept  
 
 ## IMPULSE77
 76 Keys + 1 Rotary Encoder / Stacked FR-4  
